@@ -103,12 +103,12 @@ The "Admin" user has the option to Assign or Deassign a user from an Organisatio
 ##### Assign Organisational Unit
 To Assign an existing user to an Organisational Unit, the user is prompted to select the user "ID" (from the displayed users) and provide the "Organisational Unit" that they will be assigned to.
 
-<img width="1728" alt="Screenshot 2023-10-24 at 11 45 41" src="https://github.com/Darren0422/Authentication-Capstone/assets/134398985/030f8305-4686-4445-b4cb-20543293bb15">
+<img width="1728" alt="Screenshot 2023-10-24 at 12 44 02" src="https://github.com/Darren0422/Authentication-Capstone/assets/134398985/c7266209-a5b3-45c8-9536-b812dc2a8864">
 
 ##### Deassign Organisational Unit
 To Deassign an existing user from an Organisational Unit, the user is prompted to select the user "ID" (from the displayed users) and provide the "Organisational Unit" that they will be removed from.
 
-<img width="1728" alt="Screenshot 2023-10-24 at 11 45 47" src="https://github.com/Darren0422/Authentication-Capstone/assets/134398985/1a4d812a-9ddc-49c9-9221-f7c02da28141">
+<img width="1728" alt="Screenshot 2023-10-24 at 12 43 52" src="https://github.com/Darren0422/Authentication-Capstone/assets/134398985/3ee4b935-b21f-4fb6-a9df-8cc1a83e0352">
 
 #### Update Division
 The "Admin" user has the option to Assign or Deassign a user from a Division.
